@@ -3,7 +3,7 @@
 
 ###
 
-Source code and data can be downloaded at [https://github.com/dokyoonkimlab/netCRS/](https://github.com/dokyoonkimlab/netCRS/).<br />
+Source code and data will be available for download soon at [https://github.com/dokyoonkimlab/netCRS/](https://github.com/dokyoonkimlab/netCRS/).<br />
 Contact: [Dokyoon.kim@pennmedicine.upenn.edu](mailto:Dokyoon.kim@pennmedicine.upenn.edu).<br />
 
 ## Pacific Symposium on Biocomputing (PSB) 2022
